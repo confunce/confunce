@@ -1,8 +1,8 @@
 ## 🙋‍♂️ confunce - Software Developer
 
 <p>
-  <a href="https://github.com/cultxr">
-    <img src="https://komarev.com/ghpvc/?username=cultxr&color=red">
+  <a href="https://github.com/confunce">
+    <img src="https://komarev.com/ghpvc/?username=confunce&color=red">
   </a>
 </p>
 
